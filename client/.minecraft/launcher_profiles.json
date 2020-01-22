@@ -1,0 +1,29 @@
+{
+  "profiles": {
+    "Default": {
+      "name": "Default",
+      "lastVersionId": "1.7.10"
+    },
+    "Forge": {
+      "name": "Forge",
+      "lastVersionId": "1.7.10-Forge10.13.4.1558-1.7.10"
+    }
+  },
+  "selectedProfile": "Forge",
+  "clientToken": "e725b4b5-443d-42fd-9ad3-e134f25c63d8",
+  "authenticationDatabase": {
+    "7a1920d611563bc09a60135aefe8bc67": {
+      "displayName": "Default",
+      "accessToken": "7a1920d6-1156-3bc0-9a60-135aefe8bc67",
+      "userid": "Default",
+      "uuid": "7a1920d6-1156-3bc0-9a60-135aefe8bc67",
+      "username": "Default"
+    }
+  },
+  "selectedUser": "7a1920d611563bc09a60135aefe8bc67",
+  "launcherVersion": {
+    "name": "Shiginima Launcher v4.300",
+    "format": 21,
+    "profilesFormat": 1
+  }
+}
